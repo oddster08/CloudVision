@@ -87,4 +87,4 @@ export async function POST(request: NextRequest) {
     }
 
 }
-export default prisma;
+
